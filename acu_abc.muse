@@ -1,0 +1,523 @@
+#title ACU ABC 
+#subtitle volunteer handbook of 
+#date 2021.11 edition
+#lang en
+#cover acurotten.png 
+#coverwidth 1 
+
+  
+
+  
+
+  UTRECHT, 25 JUNI 1996. The actions against the pope's visit were plotted here. Witch nights against gender intimidation followed, as did actions against missiles and in support of the Amelisweerd forest. In its twenty-year history, the squatting stronghold ACU on the Voorstraat in Utrecht has seen all conceivable radical actions. And by now even the inconceivable has become possible: the squatters become project developers and real estate owners. 
+
+[[img/opening.jpg 80]] 
+
+  As far as known, the ACU complex is the oldest still functioning squatting stronghold of its size in the Netherlands. During the squatting in 1976, the buildings and garages of the former Auto Centrale Utrecht (ACU) were already in a state of decay. A long-winding affair between the owner and the municipality on the use of this strategic location right in the city center offered the squatters all freedom. 
+
+  
+
+       NRC Handelsblad, “Projectonwikkelaar as bondgenoot”
+
+  
+
+  
+
+** Dear ACU volunteer 
+
+  
+
+In this booklet you find all — well, *almost* all — information concerning your volunteering in ACU. Hopefully, this guide makes things easier both for new volunteers and people who have been at ACU longer. 
+
+  
+
+ACU is a political cultural center in Utrecht that dates to 1976. Once squatted, ACU is non-commercial and 100% volunteer-run. ACU is both the physical space and the collective of volunteers running it. There is no management. We, all volunteers, run this place together. Cool or not? All main decisions are made collectively during the monthly meetings (and occasionally, if a matter is urgent, over our volunteer email list). As an ACU volunteer, you are part of the decision-making process, so please join the general meetings every first Monday of the month at 20:00 in the ACU bar. Also, feel invited to join our online communication platforms (more information further on). 
+
+  
+
+Please realize that volunteer work does not mean there are no obligations. Every volunteer is expected to work at least three shifts per month (bar, door, technics, kitchen, or the equivalent thereof in other tasks such as programming or administration). If you have signed up for a shift but cannot make it for some reason, please make sure there is a replacement and let your fellow volunteers know in advance. 
+
+  
+
+Enjoy your time at ACU! Together, we keep ACU the unique place it has been for over forty years now, creating alternatives in a gentrifying Voorstraat. 
+
+  
+
+** What you can expect from ACU 
+
+  
+
+As an active volunteer you have some benefits: 
+
+ - First and foremost, being a volunteer is an opportunity to make new friends in Utrecht and become part of a community. We try to create a space like our collective living room, a place we are proud and care about, just like we would care about our homes. By joining the ACU collective, you also become part of an utterly unique project that has been running for over forty years and that is the oldest of its kind in the Netherlands!  
+
+ - Being a volunteer is an opportunity to discover new talents, expand your skills, and try out things 
+
+ - Free entrance to events 
+
+ - A drinks voucher (or “red card”) worth 20 euros if you have worked at least three shifts in the preceding month. 
+
+ - During your bar, door, technics shift, non-alcoholic drinks are free (but make sure they are registered under “own use”). Every volunteer gets one non-alcoholic drink for each hour of work. 
+
+ - After your shift you can help yourself with a free drink(s). More about you can read in chapter "... be financially responsible with own use"
+
+ - Tea and coffee are always free for active volunteers 
+
+ - If you are doing the dinner-shift, the meal of the day is free 
+
+ - We try to organize two safety training courses a year on first aid, fire security, and dealing with annoying customers 
+
+ - We try to organize a trip for all volunteers once a year! 
+
+ - In case you live outside of Utrecht, you are entitled to a compensation for the travel costs to ACU with a maximum of €7 per shift. However, you must bring a receipt if you want the money reimbursed 
+
+
+** What ACU expects from volunteers 
+
+
+Volunteer work is obviously on a volunteer-basis and without remuneration, but we do expect a certain level of commitment. ACU can only exist when we can depend and rely on each other. Next to that, there are some legal requirements that we must follow to stay open. As such, we have some collective agreements: 
+
+ - As an active volunteer you are expected to work at least 3 shifts a month, whether this is bar, door, technics, kitchen, or the equivalent of 3 shifts in other tasks (programming, administration, etc.).
+
+ - Every first Monday of the month, there is a general ACU meeting. Try to be there so you know what is going on in ACU. This meeting always starts at 20:00 in the bar.
+
+ - When you sign up for a shift, commit to it. If that is not possible for some reason, please arrange a swap with another volunteer yourself, so that you do not create undue stress for others. If this is not possible, communicate things in a timely manner.
+
+ - If you do bar, make sure your IVA-certificate (Instructie Verantwoord Alcohol Schenken) is in the folder behind the bar. This certificate is a requirement to be able to do bar shifts according to the law and official regulations.
+
+ - Never drink alcohol while at work in ACU, certainly not when you are behind the bar or while doing a door shift. You share responsibility for your own safety as well as that of your fellow volunteers and guests. If you are drinking, we cannot trust you to be able to take that responsibility. Next to that, ACU may get fined or (worst case scenario) closed if people behind the bar or at the door are under the influence of alcohol. 
+
+ - Never use hard drugs in ACU and do not be on hard drugs while working a shift in ACU. We have a strict no hard drugs policy that we take very seriously.  
+
+ - We try to organize two safety training courses a year. Every volunteer is expected to attend at least one (also when you have attended before, because these training courses are also about communication).  
+
+ - ACU is a DIY (do-it-yourself together) place, so take the initiative. If there is something that must be done, act on it (while of course keeping in mind our general rules and while communicating with others). If you feel something must change, bring it up at the meeting, where the main decisions are taken. 
+
+[[img/faces.png]] 
+
+
+** General house rules 
+
+
+**99% vegan.** Please do not bring meat or fish into ACU. If you see a customer eating fish or meat, ask them to take it outside 
+
+**No drugs.** ACU has zero tolerance for hard drugs, if only because ACU risks getting fined or, worse, lose its license. If a customer is spotted using hard drugs in ACU, they will be asked to leave and risk a bar ban (minimum three months). If a volunteer is using hard drugs while in ACU, they will get a warning and, the second time, also risk a three-month bar ban. Please do not roll joints in the bar and ask customers not to roll joints in the bar (or at least to not be too conspicuous about it), because in case of a municipality check we risk a fine. 
+
+**No harassment, no racism, sexism, homophobia** or any other form of oppression, exclusion, and violence. ACU seeks to be a safe space and it is important to us that everyone feels welcome here. In case of harassment (whether this concerns a customer, a fellow volunteer, or yourself) then address the person's behavior (if you feel comfortable doing so). Or ask for help from another volunteer. See also the notes on how to deal with annoying customers later in this booklet.
+
+**No dogs** during crowded events. Dogs have sensitive ears, so when ACU is busy and the music is loud, this is not the best place for them. 
+
+**No photos and videos of people** unless they have explicitly agreed to have their image taken. In the venue, people can photograph the performing act but not the crowd. Ideally people don't make (long) videos, as this may be distracting to others. 
+
+**No cups outside**, not even plastic cups with water. We risk a fine if people take drinks outside (and plastic cups are expensive). 
+
+**Be quiet outside.** We try to maintain a good relationship with our neighbors and keep disturbance as minimal as possible. Please remind customers of this when they are standing in front of ACU. At the end of the night ask people to continue their conversations away from ACU. 
+
+**Follow instructions of people at work**. When ACU is open, the primary responsible at ACU is the “avondverantwoordelijke” (AV) together with the bar person(s) working at that moment. If there is no AV, the bar person(s) is the primary responsible. They make the main decisions during the night, for example, about when the bar closes, or if a customer must leave. Please respect this, even if you do not agree with a decision at that moment. Things can always be discussed at a later point. If you want to help while not signing in on the roster, that is great, but for things to go smoothly, actively communicate with the people who are signed up. If you are not at work, please do not step behind the bar, but ask the person doing bar for drinks, keys, etc. 
+
+[[img/dekbtr.png 70]] 
+
+
+** Collective decision making 
+
+**ACU is a collective.** This means that decisions are made collectively and that all active ACU volunteers have an equal say in that process. There is no boss, there is no management. We, all volunteers together, are ACU. All active ACU volunteers have equal status within the collective, regardless of how long they have been part of ACU, and regardless of the amount of work they do at ACU (though it is expected that as an active volunteer you invest a certain amount of time in ACU each month). All active volunteers have access to online platforms and communication channels.  
+
+**Stichting Kraakhelder en toch Niet Fris** 
+
+ACU does not have an official legal status and, as a collective, ACU seeks to operate as independently as possible from institutionalized legal structures. Legally, though, the place known as ACU is registered as a non-profit foundation: Stichting Kraakhelder en toch Niet Fris (which does not really translate to English). All active ACU volunteers are automatically members of this foundation. Kratofris has a board, which currently consists of three ACU volunteers. Kratofris rents the ACU building (including the kitchen) from the Stichting Voorstaete, which other than the building on Voorstraat 71 (which also has other renters) owns the building on Boothstraat 8 (the Strowis Hostel). As per its statutes, the Voorstaete foundation has five board members, one of which is a delegate from the ACU collective.
+
+**Collective meeting**. ACU's central decision-making organ is the collective meeting, which convenes once a month (usually the first Monday of each month). The collective meeting can also decide to organize an additional meeting. All active ACU volunteers are welcome at this meeting, also if you have just joined the collective. Also, all volunteers have an equal say in this meeting as well as an equal chance to put items on the agenda in advance of the meeting.  
+
+Each meeting has a facilitator and a note taker (decided on during the previous meeting). Before each meeting, ideally a week in advance, the facilitator and/or note taker initiate an agenda and send out an announcement to the entire collective with the invitation to add points and/or proposals to the agenda. The agenda can be found on Nextcloud, where you can also edit it (see section on Communication Platforms). The day of the meeting, the facilitator or note-taker sends out the final agenda.  
+
+During the meeting itself, decisions are, in principle, reached by consensus. If consensus cannot be reached during a meeting, we usually postpone until the next meeting; time solves many things :) 
+
+Following the meeting, the notetaker uploads the minutes to Nextcloud and sends them to the email group so that people who could not be at the meeting can still know what was discussed. 
+
+** Committees 
+
+ACU has several committees to whom the collective delegates certain responsibilities. In other words, the committees receive a certain mandate from the collective. The committees run on their own, while communicating with the collective as a whole and of which they are part. **Ideally every committee has two members (or more) present at the meeting.** If that is not possible, make sure to have one person. If that is not possible for some reason, then make sure to at least be in touch with the meeting, for example by writing a brief update that can be discussed and added to the minutes. 
+
+Currently, we have the following committees: 
+
+**Board.** Contact with Voorstaete foundation (the legal owners of the ACU building), official legal responsibility, license. As per the statutes of the Stichting Kraakhelder en Toch Niet Fris (ACU's legal face) one board position is selected by the ACU collective for a period of one year.  
+
+**Finances**. Incoming mail, bank payments, dagstaten and register // administratie@acu.nl. 
+
+**New Volunteers.** Volunteer introduction, follow-up with new volunteers, administration active volunteers, updating IVA forms (including the list of volunteers with IVA in the folder) // vrijwilliger@acu.nl  
+
+**IT.** Communication platforms and website // it@acu.nl  
+
+**Bar.** Drink orders, cleaning taps, maintenance coffee machine 
+
+**Kitchen.** Weekly eetcafé and coordination kitchen // kitchen@acu.nl 
+
+**Bookings.** Booking of band and DJ's, contact with guest groups, agenda // bookings@acu.nl  
+
+**Publicity.** Posters, Social media promotion, monthly program, and schedule   
+
+**Technics.** Maintenance of sound and light during band nights // techniek@acu.nl  
+
+**Maintenance.** Ongoing and big repairs 
+
+**Barricade.** Library, Sunday political café, Anti-food waste kitchen // barricade@acu.nl   
+
+**Merch.** T-Shirts, postcards, pins   
+
+  
+[[img/rats.png]] 
+
+
+** Internal communication platforms 
+
+  
+
+We have the following platforms for internal communication. You are free to join all of them, but there is no obligation to do so.  
+
+**Discord server**: For day-to-day matters. Know that not everyone is on this channel. Please take conversations that concern the collective to the mailing list or, if it can wait, to the meeting. As a new volunteer, you get access to this channel's work schedule group. 
+
+**Nextcloud server**: nextcloud.acu.nl. For shared documents, including the agenda and minutes for the monthly collective meeting. Especially when you join a committee, it is useful to be on this platform. To receive access email it@acu.nl  
+
+**Bar schedule**. Currently you still need a Google account to access the bar schedule. This is not mandatory, as it is understood that not everyone feels comfortable with using Google products. You can also use the tablet behind the bar.  
+
+**Booking calendar** (in Google groups, you still need a Google account for access to the schedule) 
+
+**ACU mailing list**: acu@lists.acu.nl. To register visit https://lists.acu.nl/listinfo/acu. For more important communications. If you want to be involved in collective decision making, join this list.  
+
+**Email**. if you join a committee and become responsible of that committee's email inbox you will get an @acu.nl email address. 
+
+If you have questions, mail it@acu.nl 
+
+** Volunteer mediation 
+
+The volunteer mediator group mediates in case of conflict between volunteers (though also feel free to approach this group with anything else you want to talk about in confidence about something ACU-related). 
+
+If you experience an uncomfortable situation in ACU that you think you might need help dealing with, and that you feel you cannot resolve between you and the other ACU volunteer involved, you are more than welcome to seek mediation by contacting either all members of the mediation group, or any member feel comfortable reaching out to. There are a few things you might want to keep in mind, in case you are thinking about reaching out to the mediation group: 
+
+ - You may want to seek mediation if you have a tough time clearing up issues with another volunteer, and if it is no longer possible to communicate with them in a constructive manner, that is without pressure, anxiety, and stress, and with good intentions and a friendly tone. Mediation is a clever idea if you want to reach a resolution of an unbearable situation, and if direct communication has been exhausted in capacity to offer such resolution. A mediator can also bring value when delicate matters, such as harassment, discriminatory behavior, and the like, are concerned.  
+
+ - The mediator's role is not to reach a decision; it is to help the parties reach their own decision. So, be sure that mediators will not pressure you into making any decision or impose one on you directly, but will be there for you to listen to you, try and guide you, or help you look at the situation you are involved in from an outsider's perspective.  
+
+ - **All communication between you and the mediator(s) remains confidential. Confidentiality is a main priority** 
+
+** How to... 
+
+*** ... open the bar 
+
+It takes around 30 to 45 minutes to open the bar. Be on time to open the bar. If you have just started working at ACU, it is smart to arrive an hour before opening, so that you can prepare everything ahead of time and without rushing.  
+
+ - Get the keys from the Strowis hostel (get the monthly password in the meeting). Once in the bar, keep the front door locked so you can prepare everything in peace.  
+
+ - Prepare the bar. The gear for the sink can be found in the grey bucket underneath the bar (drainpipe, brushes, measuring cups). Clean everything because there's soda in the sink. Fill the sink with water and special detergent for beer glasses (liquid or tabs).  
+
+ - Stock up the fridges and the hard liquor cabinet (and coffee and tea, if necessary).  
+
+ - Open the register: not everyone has a code for the safe in the office, but someone with access to the safe should be present. Count the money together with this other person (all financial tasks are done together) and enter the count both in the “dagstaten boek” (in the cupboard above the bar) and the register. App on the tablet can help you. Don't forget to also count the change rolls in the plastic basket (see also the “How to Fill out the dagstaten” section in this booklet). Having counted the money, put it in the cash register.  
+
+ - Check the café. Are tables clean? Put coasters and, if you want, candles on the tables.  
+
+ - Check the hallway and toilets. Is the soft hall light on (not the TL)? Are the toilets tidy? Is there still toilet paper? Soap? Refills can be found in the drinks room.  
+
+ - Turn on the bar lights (and check the lighting level; it makes all the difference) and put on some music (if you want).  
+
+ - Turn on the ventilation in the bar and, if in use, in the venue (control outflow venue ventilation in backstage). On cold nights, start off with ventilation venue on “1”.
+
+ - Make sure the back-door alarm is on (button above the panel behind the bar). If someone opens the back door (which is prohibited to customers) there will be a flashing light above the bar.  
+
+ - Open the curtains and unlock the front door. 
+
+         * * * * *
+
+*** ... close the bar 
+
+ - Call last rounds about 30 minutes before closing. Make sure this is also done in the venue. Communicate with fellow volunteers. 
+
+ - Draw the curtains and lock the door (so that people can still get out but no longer can get in). 
+
+ - Close the bar 15 minutes before closing. 
+
+ - While closing, clean the tables and, especially on busy nights, put the chairs on the tables. Turn up the light in the bar a bit already. In other words, gradually making people aware we are closing. 
+
+ - As closing time approaches, kindly ask people to leave. Only volunteers willing to help clean can stay. Feel comfortable asking other volunteers to help; they are expected to at this point. Not customers, they must leave now. 
+
+ - Do the dishes. Clean the coffee machine if it has not yet been done add a bit of special detergent to the pistons; rinse them with the program (hold the first and third buttons); rinse with water (typically, the coffee machine must be cleaned before 23:00). 
+
+ - Clean glasses and cups; put plastic cups back in the blue plastic basket in the cabinet, glasses on the shelf above the cash register. 
+
+ - Clean the bar surfaces and clean the taps with hot water.  
+
+ - Empty the sink and put the brushes and the tube in the bucket under the bar. Fill the bucket with hot water and some soda and let it soak. Do not forget to clean the edge behind the tap blades and dry everything with a clean towel.  
+
+ - Bring empty bottles to the bottle room, clean the toilets, sweep the hallway, venue, and bar (and again, ask others for help). 
+
+ - Check if the floor behind the bar is clean. 
+
+ - Stock up the fridges and the liquor on the shelf (ask for help).  
+
+ - Together with another volunteer count the money in the cash register. Enter this information in the register and write everything down in the dagstaten folder. Do not forget to also count the change rolls in the plastic bucket. Leave all 5-euro notes and about fifteen 10-euro notes in the till. 
+
+ - Together with others, sweep the hallway, venue, and bar area, and clean the toilets (with water and toilet cleaner—towels, sponges, and everything else can be found backstage in the shower). If you have been cleaning the bar, it is really expected that other volunteers take care of the venue, hallway, and toilets.  
+
+ - Check the garbage bags in the entire building, and if they are full replace them. Garbage goes outside on Monday and Thursday. On Tuesday night the wastepaper goes outside. On Wednesday, the empty crates and barrel are put next to the door in the bar. On Thursday, the glass container is put outside.
+
+ - Put devices on charge.
+
+ - Now it is time for a few drinks. Generally, you get one free alcoholic drink for every hour you have worked (special beers and hard liquor mixes count as two). If a few drinks exceed their own use, we switch to “band beers”. Once the money has been stored the bar is closed and no drinks can be bought from the bar. 
+
+ - Check before leaving: Are all doors closed? Is the food elevator closed? Is the emergency exit locked? Are the lights turned off? Is the ventilation turned off (also backstage)? Is the heating off? In other words: Are doors closed and is light and ventilation turned off? This is important for our insurance. 
+
+ - Exit, lock the door well. Do not forget the pin-locks. Leave the key behind; we will tell you where to. 
+
+        * * * * *
+ 
+*** ... do a door shift
+
+ - When you do a door shift you usually sit inside the bar area next to the door to the little hallway. On some nights we also have an extra door person sitting in the hallway for a first screening.  
+
+ - Get a red money box. On some nights entrance is donation-based; on other nights we have a door fee. If we have a door fee, prepare the money box with change (or ask someone to do it). About 70-100 euros. Make sure to enter this starting amount on the dagstaten. This starting amount is returned to the register later. 
+
+ - When someone enters, welcome them. Mention the name of the event and the cover fee, or that we have a donation night. If donation goes to a worthy cause, mention the cause.  
+
+ - Active ACU volunteers get in for free. “Dormant” volunteers are asked to pay the door fee (except for Fridays). Here we work with a trust-based system.  
+
+ - On some Friday nights the first 200 euros of the door money goes to a compelling cause. If that is the case, mention the cause (sometimes the people from the organization itself do door, but then they may be joined by a safety person).  
+
+ - When a customer enters, make sure they acknowledge your presence, whether they make eye contact, say hello, etc. In principle, everyone is welcome at ACU until they cause trouble (or have done so in the past and have a bar ban). But trust your gut feeling. If people are rude to you, we do not want them inside. 
+
+ - If people brush past you, which sometimes happens, call them back. If they do not, make sure they return (ask another volunteer for help if necessary). If the person refuses to pay or gives off a bad vibe, they must leave.  
+
+ - The outside door is closed (not locked) from around midnight to avoid noise for the neighbors. 
+
+ - Dogs are not allowed during busy events and/or events with loud music.
+
+ - We have a list of people with bar bans (temporary or permanent). It will take a while before you recognize the people, but other volunteers will help here.  
+
+ - Be very alert that customers do not take cups outside, not even cups with water. We risk a fine and cups are expensive.  
+
+ - When it gets later ask people not to be too loud in front of ACU. Explain kindly that we seek to maintain a good relationship with our neighbors. If they want to have a smoke, they can go for a walk around the corner or try and keep the volume down outside.   
+
+ - When you must leave your spot, place the money box behind the bar or hand it to a bar volunteer. 
+
+ - At the end of your shift, bring the red money box behind the bar. Write up the door money on the dagstaat as well as in the register (do not forget to return the begin count). Place the money in the register. If you do not know how to do this, ask the AV person.  
+
+ - In the case of a municipality check (a routine thing, nothing to worry about) call the person doing AV and they will deal with the situation. 
+
+ - **In general: be in charge. You are sitting at the door here, as a volunteer in your free time. If people are not respectful to you, kindly ask them to either adjust their behavior, or leave. Think here also on behalf of ACU. If people are not respectful at the door, they are not respectful inside either.** 
+
+          * * * * *
+       
+*** ... do an AV shift
+
+Or at least some things to keep in mind as “avond-verantwoordelijke” (AV, person responsible for the night), because things may vary depending on the night on the guest group. 
+
+ - Ahead of the night: if there is a guest group make sure to be in contact with them in advance. Have their phone numbers. 
+
+ - In preparation, make sure there are beers in the fridge for the guest groups. Sometimes guest groups also get a bottle or two of liquor (from the store), but within moderation. 
+
+ - Check the ventilation, both bar and venue (outflow venue in backstage). Keep an eye on it (or rather, make sure there is oxygen). 
+
+ - During the night, keep an overview of all spaces in ACU and in front of ACU. So, keep an eye on the bar area, venue, hallway, toilets, and backstage.  
+
+ - Regarding the backstage, this is a space for the people performing and DJ’ing and occasionally volunteers who have worked that night. Ask non-volunteers (and non-performers) to leave. Also feel free to ask volunteers who have not worked to leave. The party is in the bar and venue. Hard drug use is not tolerated, no discussion. 
+
+ - During the night and without policing people, have a sense of who is inside. If you notice people are getting quite drunk and loud, have a brief chat with them. It is good to build “relationships” throughout the night so that if something happen you can easily act on it.  
+
+ - During the night, also keep an eye on the atmosphere. How is the lighting level in the bar? How is the music level? Is the bar area tidy? Towards the end of the night, turn down the sound in the bar and turn up the light a bit. 
+
+ - Communicate with other volunteers doing bar and door (and towards the end of the night also the DJ’s). As an AV, together with the people doing bar and door at that moment, you make the main decisions. This concerns decisions regarding last call, closing time, and how to respond to annoying customers.  
+
+ - In the case of a municipality check (a routine affair), be polite. They usually will take a walk through the building, or more likely, they already have by the time they make themselves known (at these moments people rolling joints in the bar are not ideal. They usually also want to see our license and the list with all volunteers who have their IVA certificate. This information is in the “Vergunning” folder above the sound- and light panel behind the bar.  
+
+ - If the police want to enter, be polite but refuse them entrance. 
+
+ - As an AV you know how the dagstaten and register work. 
+
+ - As an AV you have done safety training in the last year. 
+
+ - As an AV you feel comfortable addressing difficult customers, or, depending on the situation, ask for help from other volunteers. 
+
+ - As an AV you know your way around in the ACU building. Do you know how to change a keg or the large beer tank? Do you know to find toilet paper and garbage bags? Do you know how the ventilation works? Can you find a screwdriver, flashlight? And so on.  
+
+        * * * * *
+ 
+*** ... fill out the dagstaten 
+
+***** Opening
+
+ - For those who have the code for the small safe (decided at the meeting), ask a colleague to together get the money from the small safe. This is always done by two people. 
+
+ - Fill out your name, the date, and the name of the event. 
+
+ - Count notes and coins stored in the small safe and enter this info. You can use app on the tablet to make it easier.
+
+ - Count the rolls (and little bags) with change in the plastic bucket. Here only count the number of rolls and bags (do not open them) and fill in the total value for each denomination. 
+
+ - Enter the totals. 
+
+ - Enter the totals in the register. Do not forget to hit “GETELD“ and register the count (“registreer kastelling“). Print the opening receipt and staple it on the back of the dagstaat, on the left-hand side. 
+
+***** Depositing money (“afstorten”) 
+
+ - Get an envelope from the large plastic box underneath the bar. 
+
+ - Count the bills and fill out the amount of each bill denomination entered the envelope. Also fill out the total. 
+
+ - On the envelope fill out your name, date, and envelope number  
+
+ - Enter the same information on the dagstaat 
+
+ - Enter information into the register (“Uit”>“Afstorten”), filling out the envelope number and amount. Print receipt and put in envelope. 
+
+ - Put an envelope in the large safe under the bar 
+
+ - With substantial amounts, always ask a colleague to double-check the amount and information entered, even when it is busy 
+
+***** Expenses 
+
+ - If you have an expense to declare, you can do so when ACU is open and after the money has been counted. To declare an expense, you need a receipt. No receipt, no reimbursement. 
+
+ - Fill out the information on the dagstaat and staple receipt to the dagstaat. This is the only way to declare receipts. So please, do not leave receipts in the register, mailbox, etc. You only make things really difficult for other people. 
+
+ - Enter information in the register under “UITGAVEN” > “Kas uitgave”
+
+ - Ask another volunteer to verify the receipt and hand you the money from the register. 
+
+***** Door 
+
+ - When preparing the door box, enter the amount taken from the register in the first box (“begin”). Enter this information in the register under “UITGAVE” > “Deur uit” with as note “Door start” 
+
+ - During the evening, transfer money from the door to the register and enter this amount on the dagstaat. Also register this information in the register under “INKOMSTEN” > “Deur in (night)” or “Deur in (bands)” 
+
+ - At the end of the evening, count the remaining door money, and enter this in the register in the way described above. Add all incoming amounts and subtract the begin count; enter this amount in the box that says “END” on the dagstaat. 
+
+ 
+        * * * * *
+
+ 
+***** Closing 
+
+ - Count the money and rolls in the same way as opening. 
+
+ - Enter totals in the register. Do not forget to press “GETELD”
+
+ - Print the closing receipt and staple it on the back of the dagstaat on righthand side on top of the other receipts (if any). 
+
+ - Bring the cash box and rolls to the safe, always together with another volunteer. 
+
+***** In general 
+
+ - However busy it is, take the time for these tasks. If there is a mistake, it's your responsibility. 
+
+ - Always walk to the safe together and always ask another volunteer to handle your expenses. 
+
+ - Only claim expenses with a receipt, also travel expenses. Staple this receipt to the dagstaat. Do not tape them, do not leave them in the register. Expenses without a receipt cannot be claimed. 
+
+ - Do not keep tabs for drinks. We can only sell drinks if the register is active. If not, information gets lost, is not entered, etc. 
+
+ - Make sure that the way you leave things is clear for both the people after you and the finance group. If you do not know how to do something, ask rather than guess :) 
+
+        * * * * *
+ 
+*** ... be financially responsible with own use 
+
+ - While at work for ACU (bar, door, technics, other tasks) you can take about one non-alcoholic drink per hour (coffee and tea are always free for volunteers). 
+
+ - Following your bar, door, technics shift you get two free beverages (also alcoholic) for free up to 7 euros. So, you can, for example, get one special beer and a regular beer. Two mixed drinks, however, exceed the own use agreements.  
+
+ - Your own drinks must be registered as well (for tax reasons). Put em at the cash register under “own use” 
+
+ - If in the preceding month you have worked three shifts or more (or the equivalent thereof in other tasks), you receive a red drinks card. Also, drinks paid for through these red cards are registered for own use, through a special button (“red cards”) 
+
+ - Once the bar is closed, it is no longer possible to buy drinks from the bar (also not by leaving money in the register — please do not do this, you create a lot of work for people doing administration, and there is also the trust issue). After cleaning, everyone who has helped receives one drink on own use (up to 4,50). After that, the bar is also closed for own use and we switch to band beers (which are kept cold in the fridge in the drinks room). Please respect this rule, as we are trying to keep our own use within limits (for tax reasons and, more in general, for the financial stability of ACU). 
+
+ - If another volunteer (or sometimes ex-volunteer) disrespects these agreements, please feel it is your right to remind them. ACU is our collective responsibility, and we will only thrive if volunteers feel responsible for the organization of our place and feel comfortable reminding others of collective agreements. 
+
+        * * * * *
+ 
+*** ... act in case of fire 
+
+ - The volunteer responsible for ACU that night (or really any other non-intoxicated volunteer around) checks first and, if possible, extinguishes the fire themselves. If this is not - call 112. 
+
+ - The fire extinguishers are located under the bar, on the left, in the hallway to the toilets, and backstage. Make sure you know where the fire extinguishers are! 
+
+ - If the fire cannot be extinguished, everybody must be evacuated straight away. The volunteer responsible for ACU that night and/or the bar volunteers inform the crowd. (Music off, lights on!) Ask other volunteers present to guide visitors to the emergency exits as fast as possible. The meeting place is the hotel. (When clearing the building, everything should be left behind) 
+
+ - Emergency exists are the front door and the back door at the end of the hallway. Note there is a direct side door from the venue to the hallway (this door can only be used in case of emergency). Make sure you know where the emergency exits are! 
+
+ - Warn the neighbors above and next to ACU. 
+
+ - ACU volunteers leave the rest to the fire department, police, ambulance when they arrive. 
+
+ - **Again: Familiarize yourself with the emergency exits and fire extinguishers. Every ACU volunteer is expected to know this information. Also know where to find the first aid kits (in the cupboard underneath the bar and in the backstage) and the flashlights (in the corner behind the bar close to the mailbox)** 
+
+        * * * * *
+ 
+*** ... deal with aggressive or annoying customers 
+
+ - If you get a complaint about an annoying customer in ACU, or if you notice something does not look all right, bring it to that person's attention as soon as possible. Be kind yet decisive and address as precisely as possible how the person's behavior is inappropriate. 
+
+ - For your own comfort and safety, before addressing a customer notify another ACU volunteer beforehand, so they can check from a distance if everything goes all right, and things do not get out of hand. 
+
+ - Remain calm and do not act aggressively yourself. Never touch the customer and do not say they are annoying, but just that you do not appreciate their behavior.
+
+ - If you deem it necessary, you can give someone a warning. Tell them clearly that this is the first and last warning, and that if their inappropriate behavior continues, they will have to leave. Also notify your fellow volunteers. 
+
+ - When someone behaves completely inappropriately, they will have to leave ACU without first warning. Ideally this happens voluntarily. If this seems impossible then ask other volunteers for help.
+
+ - If someone is appointed as responsible for ACU that night (AV), they make the decision if someone must leave. If nobody is doing AV, then the bar volunteer is responsible for this decision. This decision is respected at that time; discussions are for a later time. 
+
+ - If someone is asked to leave, or continues to act inappropriately on several occasions, they risk a bar ban. This will be discussed at a meeting; the customer is also welcomed to tell their side of the story. 
+
+ - In case of physical violence, someone must leave immediately no further discussion. Same goes for hard drug use. 
+
+ - Above all, communicate with your fellow volunteers. If a customer does not respond well to you, it may be best to leave the situation and have another volunteer take over. In that situation, clearly share your information with the other volunteers. If you feel uncomfortable with the customer staying (of course within ACU's policies) then tell this to the other volunteer(s) taking over and they will deal with the situation. 
+
+Some tips for addressing a difficult customer: 
+
+ - Look someone in the eye; if you know their name, use it. 
+
+ - Make sure you have the customers' attention, that they listen and are looking at you before you start talking to them. 
+
+ - Stand up straight and talk loudly and clearly. 
+
+ - Never accuse a customer directly but try to formulate whatever is going on as an opinion. So, do not say: “You are annoying.” But: “I think your behavior is annoying.” Another idea is to point out ACU's policy, for example: “Racism is not tolerated in ACU.”
+
+ - Point out what is bothering you as clearly as possible without entering lengthy discussions. You are at work here in ACU, on a voluntary basis, and if you address someone for inappropriate behavior, they simply must respect you.  
+
+ - Draw a line. Tell them, for example, what you expect from them: “I can hear you yell and it's bothering me. I want you to calm down.” If inappropriate behavior continues ask them to leave (and again communicate with your fellow volunteers).  
+
+ - Don't wait too long before you address someone. Let the customer know you are there and that you do not tolerate everything. The longer you wait, the more power a customer gets, in a way. 
+
+        * * * * *
+ 
+*** ... organize an event 
+
+ACU always welcomes new initiatives, but before you organize an event there are a few things to keep in mind.  
+
+ - First, in ACU there is no room for events organized by political parties. There is also no room for private parties  
+
+ - When you plan to organize an event, first see if this is supported by the collective, either by bringing it up at the meeting or through our online communications. If no-one objects, go ahead. 
+
+ - While planning your date, communicate with the programming group as they oversee the calendar. In general, on Mondays ACU is closed. On Tuesday night we have an open stage (or Tapschrift). On some Wednesdays we sometimes have bands or other events. On Thursday we have eetcafé and guest groups (sometimes bands). On Friday we have Vitamine disco (and sometime bands before). On Saturday we have Taste Before You Waste dinner followed by guest group nights (bar + venue). On Sunday afternoon and evening there is the Barricade library + eetcafé. So, the schedule is quite packed, but there are gaps in the program for new things still! 
+
+ - If you organize an event, you are responsible, and it is expected you will be there from beginning to end. Do what you can to arrange people for the door and bar also. 
+
+ - Be financially responsible. Unless otherwise approved by the collective, there is no budget for expenses. 
+
+ - Communicate with the programming group, with tech people, with people doing the bar, and with others who may be organizing an event that same day in ACU. Even while being super-focused on your own event going well, also try to keep ACU in mind and accept that some things may go differently than foreseen. 
+
+         * * * * *
+
+*** ... take care of yourself and others in the collective 
+
+In ACU we try to build a healthy, welcoming, and inclusive community. This is something to also keep in mind when things get busy. ACU is entirely run by volunteers, and it is somewhat of a miracle we continue to achieve this! It is what makes ACU unique, in the Netherlands and beyond. But ACU is not only an organization that puts on a lot of events. We are also a collective and as such we try to take care of ourselves and each other, and make sure that while making ACU thrive, we do not strain ourselves.
+
+Some weeks we have difficulty filling in the bar schedule and sometimes we even must close early. This is all right. We may lose a bit of revenue, but even more important than our financial well-being is our social dynamic. It is from there that we continue building and finding new ways of self-organizing in a society that tends to isolate and drain people. Let us not copy this but let us keep working on alternatives! 
+
+Now, there is not one way of staying healthy, in general and as an ACU volunteer. But sometimes it may be wise to remind yourself of a balance between ACU and life outside it and feel free to say no. Especially with structural tasks (administration, programming, being responsible for answering emails, etc.), be realistic about the time you can commit. This is in your own interest, but it is also in your collective interest. It is better for the collective to know that there is a vacancy for a particular task than that someone takes on a task but does not have the time and space for it. 
+
+Once you have taken on a new task, at some point also extend your knowledge to others and feel comfortable asking others for help. In fact, part of every task in ACU is to help transfer it. It is how ACU has been running for a long time. When you have taken on a task but feel it is too much, make this known. We are a large group and continuously attract new skilled volunteers, so help is always close.  
+
+Finally, if you feel stressed about ACU stuff, or you notice another volunteer may have been taken on a bit too much, talk about it. Also, in other stressful situations, like a conflict with a fellow volunteer, communicate. Let us keep a positive vibe, because that is why we are here, working on a cool project and free space in our own time.
+
+** Notes
