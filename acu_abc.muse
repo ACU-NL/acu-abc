@@ -1,6 +1,6 @@
 #title ACU ABC 
 #subtitle volunteer handbook of 
-#date 2021.11 edition
+#date 2022.10 edition
 #lang en
 #cover acurotten.png 
 #coverwidth 1 
@@ -19,8 +19,12 @@
 
        NRC Handelsblad, “Projectonwikkelaar as bondgenoot”
 
-  
-
+** Changes
+*** From 2021.11 to 2022.10 edition
+ - Added information about mediator commite that help with dealing conflicts and harassment.
+ - Added information about charging PIN machines.
+ - Added information about cleaning ash trays in front door.
+ - Added Changes section in order to let existing volunteers easily find out about new information that's added to the book.
   
 
 ** Dear ACU volunteer 
@@ -103,7 +107,7 @@ Volunteer work is obviously on a volunteer-basis and without remuneration, but w
 
 **No drugs.** ACU has zero tolerance for hard drugs, if only because ACU risks getting fined or, worse, lose its license. If a customer is spotted using hard drugs in ACU, they will be asked to leave and risk a bar ban (minimum three months). If a volunteer is using hard drugs while in ACU, they will get a warning and, the second time, also risk a three-month bar ban. Please do not roll joints in the bar and ask customers not to roll joints in the bar (or at least to not be too conspicuous about it), because in case of a municipality check we risk a fine. 
 
-**No harassment, no racism, sexism, homophobia** or any other form of oppression, exclusion, and violence. ACU seeks to be a safe space and it is important to us that everyone feels welcome here. In case of harassment (whether this concerns a customer, a fellow volunteer, or yourself) then address the person's behavior (if you feel comfortable doing so). Or ask for help from another volunteer. See also the notes on how to deal with annoying customers later in this booklet.
+**No harassment, no racism, sexism, homophobia** or any other form of oppression, exclusion, and violence. ACU seeks to be a safe space and it is important to us that everyone feels welcome here. In case of harassment (whether this concerns a customer, a fellow volunteer, or yourself) then address the person's behavior (if you feel comfortable doing so). Or ask for help from another volunteer. If the issue is with another volunteer you can also contact someone from mediator and they'll help you resolve the issue. See also the notes on how to deal with annoying customers later in this booklet.
 
 **No dogs** during crowded events. Dogs have sensitive ears, so when ACU is busy and the music is loud, this is not the best place for them. 
 
@@ -159,6 +163,8 @@ Currently, we have the following committees:
 **Technics.** Maintenance of sound and light during band nights // techniek@acu.nl  
 
 **Maintenance.** Ongoing and big repairs 
+
+**Mediator** Resolve conflict and deal with harasment issues between volunteers. 
 
 **Barricade.** Library, Sunday political café, Anti-food waste kitchen // barricade@acu.nl   
 
@@ -245,6 +251,8 @@ It takes around 30 to 45 minutes to open the bar. Be on time to open the bar. If
  - Clean glasses and cups; put plastic cups back in the blue plastic basket in the cabinet, glasses on the shelf above the cash register. 
 
  - Clean the bar surfaces and clean the taps with hot water.  
+ 
+ - Clean the ash trays in front door.
 
  - Empty the sink and put the brushes and the tube in the bucket under the bar. Fill the bucket with hot water and some soda and let it soak. Do not forget to clean the edge behind the tap blades and dry everything with a clean towel.  
 
@@ -260,7 +268,7 @@ It takes around 30 to 45 minutes to open the bar. Be on time to open the bar. If
 
  - Check the garbage bags in the entire building, and if they are full replace them. Garbage goes outside on Monday and Thursday. On Tuesday night the wastepaper goes outside. On Wednesday, the empty crates and barrel are put next to the door in the bar. On Thursday, the glass container is put outside.
 
- - Put devices on charge.
+ - Put PIN machines and other devices on charge.
 
  - Now it is time for a few drinks. Generally, you get one free alcoholic drink for every hour you have worked (special beers and hard liquor mixes count as two). If a few drinks exceed their own use, we switch to “band beers”. Once the money has been stored the bar is closed and no drinks can be bought from the bar. 
 
