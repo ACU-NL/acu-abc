@@ -1,6 +1,6 @@
 #title ACU ABC 
 #subtitle volunteer handbook of 
-#date 2022.10 edition
+#date 2023.05 edition
 #lang en
 #cover acurotten.png 
 #coverwidth 1 
@@ -20,12 +20,15 @@
        NRC Handelsblad, “Projectonwikkelaar as bondgenoot”
 
 ** Changes
-*** From 2021.11 to 2022.10 edition
+*** 2022.10
  - Added information about mediator commite that help with dealing conflicts and harassment.
  - Added information about charging PIN machines.
  - Added information about cleaning ash trays in front door.
  - Added Changes section in order to let existing volunteers easily find out about new information that's added to the book.
-  
+*** 2023.05
+ - Updated information about responsible own use after May meeting.
+ - Nextcloud => Google Drive.
+ - Updated email list info.
 
 ** Dear ACU volunteer 
 
@@ -132,11 +135,11 @@ ACU does not have an official legal status and, as a collective, ACU seeks to op
 
 **Collective meeting**. ACU's central decision-making organ is the collective meeting, which convenes once a month (usually the first Monday of each month). The collective meeting can also decide to organize an additional meeting. All active ACU volunteers are welcome at this meeting, also if you have just joined the collective. Also, all volunteers have an equal say in this meeting as well as an equal chance to put items on the agenda in advance of the meeting.  
 
-Each meeting has a facilitator and a note taker (decided on during the previous meeting). Before each meeting, ideally a week in advance, the facilitator and/or note taker initiate an agenda and send out an announcement to the entire collective with the invitation to add points and/or proposals to the agenda. The agenda can be found on Nextcloud, where you can also edit it (see section on Communication Platforms). The day of the meeting, the facilitator or note-taker sends out the final agenda.  
+Each meeting has a facilitator and a note taker (decided on during the previous meeting). Before each meeting, ideally a week in advance, the facilitator and/or note taker initiate an agenda and send out an announcement to the entire collective with the invitation to add points and/or proposals to the agenda. The agenda can be found on Google Drive, where you can also edit it (see section on Communication Platforms). The day of the meeting, the facilitator or note-taker sends out the final agenda.  
 
 During the meeting itself, decisions are, in principle, reached by consensus. If consensus cannot be reached during a meeting, we usually postpone until the next meeting; time solves many things :) 
 
-Following the meeting, the notetaker uploads the minutes to Nextcloud and sends them to the email group so that people who could not be at the meeting can still know what was discussed. 
+Following the meeting, the notetaker uploads the minutes to Google Drive and sends them to the email group so that people who could not be at the meeting can still know what was discussed. 
 
 ** Committees 
 
@@ -182,13 +185,13 @@ We have the following platforms for internal communication. You are free to join
 
 **Discord server**: For day-to-day matters. Know that not everyone is on this channel. Please take conversations that concern the collective to the mailing list or, if it can wait, to the meeting. As a new volunteer, you get access to this channel's work schedule group. 
 
-**Nextcloud server**: nextcloud.acu.nl. For shared documents, including the agenda and minutes for the monthly collective meeting. Especially when you join a committee, it is useful to be on this platform. To receive access email it@acu.nl  
+**Google Driver**: drive.acu.nl. For shared documents, including the agenda and minutes for the monthly collective meeting. Especially when you join a committee, it is useful to be on this platform. To receive access email it@acu.nl  
 
 **Bar schedule**. Currently you still need a Google account to access the bar schedule. This is not mandatory, as it is understood that not everyone feels comfortable with using Google products. You can also use the tablet behind the bar.  
 
 **Booking calendar** (in Google groups, you still need a Google account for access to the schedule) 
 
-**ACU mailing list**: acu@lists.acu.nl. To register visit https://lists.acu.nl/listinfo/acu. For more important communications. If you want to be involved in collective decision making, join this list.  
+**ACU mailing list**: list@acu.nl. To register mail it@acu.nl. For more important communications. If you want to be involved in collective decision making, join this list.  
 
 **Email**. if you join a committee and become responsible of that committee's email inbox you will get an @acu.nl email address. 
 
@@ -428,15 +431,15 @@ Or at least some things to keep in mind as “avond-verantwoordelijke” (AV, pe
  
 *** ... be financially responsible with own use 
 
- - While at work for ACU (bar, door, technics, other tasks) you can take about one non-alcoholic drink per hour (coffee and tea are always free for volunteers). 
+ - While at work for ACU (bar, door, technics, other tasks) you can take about one non-alcoholic drink per hour (coffee and tea are always free for on and off duty volunteers). 
 
- - Following your bar, door, technics shift you get two free beverages (also alcoholic) for free up to 7 euros. So, you can, for example, get one special beer and a regular beer. Two mixed drinks, however, exceed the own use agreements.  
+ - Following your bar, door, technics shift you get two free beverages (also alcoholic) for free up to 10 euros. So, you can, for example, get one special beer and a regular beer.
 
  - Your own drinks must be registered as well (for tax reasons). Put em at the cash register under “own use” 
 
  - If in the preceding month you have worked three shifts or more (or the equivalent thereof in other tasks), you receive a red drinks card. Also, drinks paid for through these red cards are registered for own use, through a special button (“red cards”) 
 
- - Once the bar is closed, it is no longer possible to buy drinks from the bar (also not by leaving money in the register — please do not do this, you create a lot of work for people doing administration, and there is also the trust issue). After cleaning, everyone who has helped receives one drink on own use (up to 4,50). After that, the bar is also closed for own use and we switch to band beers (which are kept cold in the fridge in the drinks room). Please respect this rule, as we are trying to keep our own use within limits (for tax reasons and, more in general, for the financial stability of ACU). 
+ - Once the bar is closed, it is no longer possible to buy drinks from the bar (also not by leaving money in the register — please do not do this, you create a lot of work for people doing administration, and there is also the trust issue). After cleaning, everyone who has helped receives one drink on own use (up to 5 eur). After that, when cassa is closed and counted, a tab for afterdrinks should be created. Opened tab should be cleared the next day after opening the cassa with “own use” button. 
 
  - If another volunteer (or sometimes ex-volunteer) disrespects these agreements, please feel it is your right to remind them. ACU is our collective responsibility, and we will only thrive if volunteers feel responsible for the organization of our place and feel comfortable reminding others of collective agreements. 
 
