@@ -29,6 +29,9 @@
  - Updated information about responsible own use after May meeting.
  - Nextcloud => Google Drive.
  - Updated email list info.
+*** 2023.06
+ - Updated red card amount
+ - Updated comitties
 
 ** Dear ACU volunteer 
 
@@ -62,7 +65,7 @@ As an active volunteer you have some benefits:
 
  - Free entrance to events 
 
- - A drinks voucher (or “red card”) worth 20 euros if you have worked at least three shifts in the preceding month. 
+ - A drinks voucher (or “red card”) worth 40 euros if you have worked at least three shifts in the preceding month. 
 
  - During your bar, door, technics shift, non-alcoholic drinks are free (but make sure they are registered under “own use”). Every volunteer gets one non-alcoholic drink for each hour of work. 
 
@@ -167,11 +170,11 @@ Currently, we have the following committees:
 
 **Maintenance.** Ongoing and big repairs 
 
-**Mediator** Resolve conflict and deal with harasment issues between volunteers. 
+**Mediator.** Resolve conflict and deal with harasment issues between volunteers. 
 
-**Barricade.** Library, Sunday political café, Anti-food waste kitchen // barricade@acu.nl   
+**Free Shop.** Take care of the donations and tidy it up from time to time.
 
-**Merch.** T-Shirts, postcards, pins   
+**Acudemi.** Share knowledge and organise traningns.
 
   
 [[img/rats.png]] 
