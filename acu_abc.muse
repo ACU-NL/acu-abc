@@ -20,16 +20,16 @@
        NRC Handelsblad, “Projectonwikkelaar as bondgenoot”
 
 ** Changes
-*** 2022.10
+**** 2022.10
  - Added information about mediator commite that help with dealing conflicts and harassment.
  - Added information about charging PIN machines.
  - Added information about cleaning ash trays in front door.
  - Added Changes section in order to let existing volunteers easily find out about new information that's added to the book.
-*** 2023.05
+**** 2023.05
  - Updated information about responsible own use after May meeting.
  - Nextcloud => Google Drive.
  - Updated email list info.
-*** 2023.06
+**** 2023.06
  - Updated red card amount
  - Updated comitties
 
