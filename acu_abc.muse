@@ -33,7 +33,7 @@
  - Updated red card amount
  - Updated comitties
 ***** 2024.01
- - You can use pin to buy drinks after bar closure
+ - You can use pin to buy drinks after bar closure, no tabs!
 
 ** Dear ACU volunteer 
 
@@ -444,7 +444,7 @@ Or at least some things to keep in mind as “avond-verantwoordelijke” (AV, pe
 
  - If in the preceding month you have worked three shifts or more (or the equivalent thereof in other tasks), you receive a red drinks card. Also, drinks paid for through these red cards are registered for own use, through a special button (“red cards”) 
 
- - Once the bar is closed volunteers still can use pin payments to buy drinks. Don't forget to register them as usual. After cleaning, everyone who has helped receives one drink on own use (up to 5 eur). After that, when cassa is closed and counted, a tab for afterdrinks should be created. Opened tab should be cleared the next day after opening the cassa with “own use” button. 
+ - Once the bar is closed volunteers still can use pin payments to buy drinks. Don't forget to register them as usual. After cleaning, everyone who has helped receives one drink on own use (up to 5 eur). Register such drinks as “own use” in the cassa.
 
  - If another volunteer (or sometimes ex-volunteer) disrespects these agreements, please feel it is your right to remind them. ACU is our collective responsibility, and we will only thrive if volunteers feel responsible for the organization of our place and feel comfortable reminding others of collective agreements. 
 
